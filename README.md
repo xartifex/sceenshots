@@ -1,1 +1,1 @@
-# sceenshots
+# screenshots
